@@ -1,5 +1,5 @@
 # LexiAI 🧠💬
-
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 [![Swift](https://img.shields.io/badge/Swift-5.7-orange?logo=swift)](https://swift.org)
 [![Xcode](https://img.shields.io/badge/Xcode-14-blue?logo=xcode)](https://developer.apple.com/xcode/)
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey)](https://creativecommons.org/licenses/by-nc/4.0/)
