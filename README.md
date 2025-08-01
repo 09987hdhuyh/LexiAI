@@ -16,7 +16,9 @@
 - Clean, minimal design  
 - Built for learning, experimentation, and collaboration
 
-## 📸 
+## preview 📸 <img width="1290" height="2796" alt="image" src="https://github.com/user-attachments/assets/28bca084-9e65-45df-8732-419cd665ae6c" />
+<img width="1290" height="2796" alt="image" src="https://github.com/user-attachments/assets/c8d7c85f-ffc1-443f-a474-c281066130dc" />
+
 ---
 
 ### 🙌 Open Source & Non-Commercial  
